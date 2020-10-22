@@ -1,0 +1,22 @@
+Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+0.0,Wii Sports,Wii,0.76,Sports,Nintendo,1.0,1.0,0.35,0.79,1.0
+0.05,Super Mario Bros.,NES,0.03,Platform,Nintendo,0.66,0.11,0.66,0.03,0.32
+0.11,Mario Kart Wii,Wii,0.83,Racing,Nintendo,0.3,0.44,0.36,0.28,0.25
+0.16,Wii Sports Resort,Wii,0.86,Sports,Nintendo,0.3,0.37,0.3,0.25,0.2
+0.21,Pokemon Red/Pokemon Blue,GB,0.41,Role-Playing,Nintendo,0.18,0.3,1.0,0.05,0.18
+0.26,Tetris,GB,0.17,Puzzle,Nintendo,0.5,0.06,0.4,0.01,0.16
+0.32,New Super Mario Bros.,DS,0.76,Platform,Nintendo,0.18,0.31,0.63,0.24,0.16
+0.37,Wii Play,Wii,0.76,Misc,Nintendo,0.25,0.31,0.27,0.24,0.14
+0.42,New Super Mario Bros. Wii,Wii,0.86,Platform,Nintendo,0.27,0.23,0.45,0.18,0.13
+0.47,Duck Hunt,NES,0.0,Shooter,Nintendo,0.6,0.01,0.0,0.0,0.13
+0.53,Nintendogs,DS,0.72,Simulation,Nintendo,0.12,0.37,0.17,0.23,0.07
+0.58,Mario Kart DS,DS,0.72,Racing,Nintendo,0.14,0.25,0.39,0.14,0.05
+0.63,Pokemon Gold/Pokemon Silver,GB,0.52,Role-Playing,Nintendo,0.12,0.2,0.7,0.02,0.05
+0.68,Wii Fit,Wii,0.79,Sports,Nintendo,0.11,0.27,0.34,0.17,0.04
+0.74,Wii Fit Plus,Wii,0.86,Sports,Nintendo,0.12,0.29,0.23,0.13,0.03
+0.79,Kinect Adventures!,X360,0.9,Misc,Microsoft Game Studios,0.28,0.16,0.0,0.12,0.03
+0.84,Grand Theft Auto V,PS3,1.0,Action,Take-Two Interactive,0.06,0.31,0.07,0.36,0.02
+0.89,Grand Theft Auto: San Andreas,PS2,0.69,Action,Take-Two Interactive,0.13,0.0,0.02,1.0,0.01
+0.95,Super Mario World,SNES,0.21,Platform,Nintendo,0.22,0.12,0.33,0.01,0.01
+1.0,Brain Age: Train Your Brain in Minutes a Day,DS,0.72,Misc,Nintendo,0.0,0.31,0.39,0.16,0.0
+

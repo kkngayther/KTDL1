@@ -1,0 +1,14 @@
+# Số mẫu: 20
+# Số thuộc tính: 11
+# thuộc tính 1: Rank	Numeric
+# thuộc tính 2: Name	Nominal
+# thuộc tính 3: Platform	Nominal
+# thuộc tính 4: Year	Numeric
+# thuộc tính 5: Genre	Nominal
+# thuộc tính 6: Publisher	Nominal
+# thuộc tính 7: NA_Sales	Numeric
+# thuộc tính 8: EU_Sales	Numeric
+# thuộc tính 9: JP_Sales	Numeric
+# thuộc tính 10: Other_Sales	Numeric
+# thuộc tính 11: Global_Sales	Numeric
+
